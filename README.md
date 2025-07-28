@@ -1,6 +1,6 @@
 # WFGY Problem Map — Index of AI Failures We've Solved
 
-> 📌 **This is just an index repo.**
+> 📌 **This is just an index repo.**  
 > Go to each problem’s folder for detailed modules, demos, and engineering walkthroughs.  
 > 👉 **[Main Problem Map](https://github.com/onestardao/WFGY/tree/main/ProblemMap)**  
 
