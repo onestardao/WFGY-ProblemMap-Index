@@ -15,6 +15,8 @@
 - **[Semantic Clinic — Triage Hub](https://github.com/onestardao/WFGY/blob/main/ProblemMap/SemanticClinicIndex.md)**
 - **[Diagnose by Symptom — Quick Sheet](https://github.com/onestardao/WFGY/blob/main/ProblemMap/Diagnose.md)**
 - **[🧩 MVP Demos — Minimal Runnable Examples](https://github.com/onestardao/WFGY/blob/main/ProblemMap/mvp_demo/README.md)**
+- **[🌍 Global Fix Map — Systemic AI Failures](https://github.com/onestardao/WFGY/blob/main/ProblemMap/GlobalFixMap/README.md)**
+
 
 ---
 
