@@ -4,7 +4,7 @@
 > Go to each problem’s folder for detailed modules, demos, and engineering walkthroughs.  
 > 👉 **[Main Problem Map](https://github.com/onestardao/WFGY/tree/main/ProblemMap)**
 
-<img width="1536" height="1024" alt="ProblemMap_Hero" src="https://github.com/user-attachments/assets/b2a5add8-6647-4424-8eff-9e449bf7382b" />
+<img width="1536" height="1024" alt="Hero" src="https://github.com/user-attachments/assets/a73aac28-c133-4fcb-9643-fb2756736e02" />
 
 ---
 
@@ -12,6 +12,7 @@
 
 - **[Problem Map 1.0 — Core 16 Failures](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)**
 - **[Problem Map 2.0 — RAG Architecture & Recovery](https://github.com/onestardao/WFGY/blob/main/ProblemMap/rag-architecture-and-recovery.md)**
+- **[Grandma Clinic — All Bugs Made Simple (1–16)](https://github.com/onestardao/WFGY/tree/main/ProblemMap/GrandmaClinic)**
 - **[Semantic Clinic — Triage Hub](https://github.com/onestardao/WFGY/blob/main/ProblemMap/SemanticClinicIndex.md)**
 - **[Diagnose by Symptom — Quick Sheet](https://github.com/onestardao/WFGY/blob/main/ProblemMap/Diagnose.md)**
 - **[🧩 MVP Demos — Minimal Runnable Examples](https://github.com/onestardao/WFGY/blob/main/ProblemMap/mvp_demo/README.md)**
@@ -126,4 +127,3 @@ Each link opens the failure’s fix page:
 [![Blow](https://img.shields.io/badge/Blow-Game%20Logic-purple?style=flat-square)](https://github.com/onestardao/WFGY/tree/main/OS/BlowBlowBlow)
 
 </div>
-
